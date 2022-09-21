@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    background-color: rgb(0, 134, 255);
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 10px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+header img{
+    height: 20px;
+}
+
+hr{
+    background-image: linear-gradient( to right, rgb(255, 251, 0), rgb(255, 0, 0), rgb(204, 0, 255), rgb(0, 132, 255), rgb(0, 255, 0) );    
+    height: 5px;
+    border: 0px;
+}
+
+main .login input{
+    height: 28px;
+    width: 90%;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+main .login h3{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: -10px;
+}
+
+main .login button{
+    width: 90%;
+    height: 30px;
+    background-color: rgb(6, 201, 6);
+}
