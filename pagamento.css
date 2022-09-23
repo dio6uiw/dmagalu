@@ -65,14 +65,17 @@ main .login p{
 
 main .login h5{
     margin-top: 10px;
-    margin-bottom: 10px;   
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(51, 51, 51, 0.89);   
 }
 
 main #p1{
     font-size: 13px;
-    color: rgb(161, 161, 161);
+    color: rgb(134, 134, 134);
     font-family: Arial, Helvetica, sans-serif;
-    margin-top: 20px;
+    margin-top: 30px;
     margin-left: 17px;
     margin-right: 17px;
 }
@@ -87,10 +90,12 @@ footer{
 }
 
 footer p{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
     padding-top: 10px;
     padding-left: 20px;
     padding-right: 20px;
-    padding-bottom: 25px;
+    padding-bottom: 30px;
 }
 
 footer i{
@@ -100,11 +105,12 @@ footer i{
 
 footer .rodap{
     background-color: rgb(0, 134, 255);
-    padding: 10px;
+    padding-top: 20px;
 }
 
 footer .rodap p{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 12px;
+    font-size: 14px;
     color: rgba(255, 255, 255, 0.856);
+    
 }
