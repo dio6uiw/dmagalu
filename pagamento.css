@@ -27,23 +27,50 @@ hr{
 }
 
 main .login input{
-    height: 28px;
-    width: 90%;
-    margin-left: 30px;
-    margin-top: 20px;
+    height: 40px;
+    width: 82%;
+    padding: 0px 15px;
+    margin-top: 6px;
 }
 
 main .login h3{
-    font-size: 16px;
+    font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
-    color: black;
+    color: rgba(51, 51, 51, 0.89);
     margin-top: 20px;
-    margin-left: 20px;
-    margin-bottom: -10px;
+    margin-left: 19px;
+    margin-bottom: 1px;
 }
 
 main .login button{
-    width: 90%;
-    height: 30px;
-    background-color: rgb(6, 201, 6);
+    width: 91%;
+    height: 42px;
+    background-color: #59C00B;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 18px;
+    margin-top: 5px;
+    border: 0px;
+    border-radius: 5px;
+}
+
+main .login p{
+    font-size: 15px;
+    color: rgba(31, 30, 30, 0.89);
+    margin-left: 20px;
+    text-decoration: underline;
+}
+
+main .login h5{
+    margin-top: 10px;
+    margin-bottom: 10px;   
+}
+
+main #p1{
+    font-size: 13px;
+    color: rgb(104, 104, 104);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    margin-left: 17px;
+    margin-right: 17px;
 }
