@@ -31,6 +31,8 @@ main .login input{
     width: 82%;
     padding: 0px 15px;
     margin-top: 6px;
+    font-size: 16px;
+    color: rgb(70, 70, 70);
 }
 
 main .login h3{
@@ -45,7 +47,7 @@ main .login h3{
 main .login button{
     width: 91%;
     height: 42px;
-    background-color: #59C00B;
+    background-color: #56b80c;
     font-family: 'Roboto', sans-serif;
     color: white;
     font-size: 18px;
@@ -68,9 +70,20 @@ main .login h5{
 
 main #p1{
     font-size: 13px;
-    color: rgb(104, 104, 104);
+    color: rgb(161, 161, 161);
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 20px;
     margin-left: 17px;
     margin-right: 17px;
+}
+
+footer{
+    background-color: rgb(224, 224, 224);
+    font-size: 13px;
+    color: rgb(107, 107, 107);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+}
+
+footer p{
 }
