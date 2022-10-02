@@ -41,8 +41,8 @@ main .login h3{
     color: rgba(51, 51, 51, 0.89);
     margin-top: 20px;
     margin-left: 19px;
-    margin-bottom: 1px;
-}
+    margin-bottom: 1px; 
+}   
 
 main .login button{
     width: 91%;
