@@ -90,6 +90,7 @@ i{
 #disabledInput{
     height: 30px;
     width: 80%;
+    color: black;
     font-size: 15px;
 }
 main .rp{
@@ -98,7 +99,6 @@ main .rp{
     color: rgb(107, 107, 107);
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 20px;
-    height: 275px;
 }
 
 main .rp p{
@@ -107,7 +107,7 @@ main .rp p{
     padding-top: 10px;
     padding-left: 20px;
     padding-right: 20px;
-    padding-bottom: 0px;
+    padding-bottom: 15px;
 }
 
 main .rp i{
